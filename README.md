@@ -186,19 +186,22 @@ AI-Job-Salary-Prediction-ML/
 
 ## Home Page
 
-*Add screenshot here*
+<img width="1408" height="768" alt="Gemini_Generated_Image_kxzphhkxzphhkxzp" src="https://github.com/user-attachments/assets/93adbb87-60e6-4931-8388-ac5d7f4436d6" />
+
 
 ---
 
 ## Salary Prediction
 
-*Add screenshot here*
+<img width="421" height="350" alt="image" src="https://github.com/user-attachments/assets/bb1247b1-04da-4390-88da-fa038888b1f2" />
+
 
 ---
 
 ## Prediction Result
 
-*Add screenshot here*
+<img width="351" height="811" alt="image" src="https://github.com/user-attachments/assets/b13db27c-719f-4cac-97e5-57f52a0726a0" />
+
 
 ---
 
