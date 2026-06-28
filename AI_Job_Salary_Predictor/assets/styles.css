@@ -1,0 +1,69 @@
+/* Hide Streamlit Branding */
+
+#MainMenu {
+    visibility: hidden;
+}
+
+footer {
+    visibility: hidden;
+}
+
+header {
+    visibility: hidden;
+}
+
+/* Main App */
+
+.stApp{
+
+    background:#0E1117;
+
+    color:white;
+
+}
+
+/* Title */
+
+h1{
+
+    color:#00E5FF;
+
+    text-align:center;
+
+}
+
+/* Sub Headers */
+
+h2,h3{
+
+    color:#00BFFF;
+
+}
+
+/* Buttons */
+
+.stButton>button{
+
+    width:100%;
+
+    background:#00BFFF;
+
+    color:white;
+
+    border-radius:10px;
+
+    height:50px;
+
+    font-size:18px;
+
+    font-weight:bold;
+
+}
+
+/* Success */
+
+.stSuccess{
+
+    border-radius:15px;
+
+}
